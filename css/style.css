@@ -38,7 +38,7 @@
     background: #0a0a10;
 }
 ::-webkit-scrollbar-thumb{
-   background-color: #a54bff;
+   background-color: #ff0000;
    border-radius: 2px;
    border: 2px solid #d6acff;
 
@@ -47,7 +47,7 @@
     --bg-color: #000;
     --second-bg-color: #000;
     --text-color: #FFF;
-    --main-color: #a54bff;
+    --main-color: #ff0000;
 }
 /* :root { */
     /* --bg-color: #181824;    Dark background color */
